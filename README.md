@@ -1,18 +1,10 @@
-## discord.py
+## Elixir Bot
 ==========
 
-A modern, easy to use, feature-rich, and async ready API wrapper for Discord written in Python.
+A Multi-Purpose Bot including many features such as Selfroles, Leveling, Profile, Muisc etc.
 
 Key Features
 -------------
 
-- Modern Pythonic API using ``async`` and ``await``.
-- Proper rate limit handling.
-- 100% coverage of the supported Discord API.
-- Optimised in both speed and memory.
-
-Installing
-----------
-
-**Python 3.5.3 or higher is required**
-
+- ``Sticky Messege`` - Sticks desired messeage in specified channel which always stays at the bottom of all messege.
+- ``Sticky Nikcnames`` - Freezes desired nickname for a specific someone which cant be reset by the person.
