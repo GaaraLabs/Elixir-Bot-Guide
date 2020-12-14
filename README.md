@@ -10,54 +10,54 @@ A Multi-Purpose Bot including many features such as Selfroles, Leveling, Profile
 
 # Commands
 
-moderation- kick,ban and all the mod commands
+`Moderation` - kick,ban and all the mod commands
 
-utils- self roles, nicknamer with freezenick command
+`Utils` - self roles, nicknamer with freezenick command
 
-admin- admin commands like announce serverlock etc
+`Admin` - admin commands like announce serverlock etc
 
-music- music commands with equilizer
+`Music` - music commands with equilizer
 
-leveler - leveler with customizable profile background
+`Leveler` - leveler with customizable profile background
 
-lockdown - server and channel lockdown
+`Lockdown` - server and channel lockdown
 
-AltDentifier - idenitify alts
+`AltDentifier` - idenitify alts
 
-Cleanup - purge commands
+`Cleanup` - purge commands
 
-economy- it features bank blackjack etc
+`Economy` - it features bank blackjack etc
 
-Defender - defender for big communities used against raids etc
+`Defender` - defender for big communities used against raids etc
 
-Dungeon - verification system for new users
+`Dungeon` - verification system for new users
 
-General- with 8ball , urban , spotwatch, flip etc
+`General` - with 8ball , urban , spotwatch, flip etc
 
-Image - search images on imgur and giphy
+`Image` - search images on imgur and giphy
 
-LoveCalculator - calculate love between 2 users
+`LoveCalculator` - calculate love between 2 users
 
-MessagesLog - logs messages in the channel you provided
+`MessagesLog` - logs messages in the channel you provided
 
-ModLog- modlogs with cases and reasons
+`ModLog` - modlogs with cases and reasons
 
-NickNamer- forcenickname someone or freezenickname someone (sticky nick)
+`NickNamer` - forcenickname someone or freezenickname someone (sticky nick)
 
-NitroRole- welcome your nitro boosters with a message and a image or gif
+`NitroRole` - welcome your nitro boosters with a message and a image or gif
 
-Permissions- set perimmisions for the users in your server and allow only a few commands to be used by them
+`Permissions` - set perimmisions for the users in your server and allow only a few commands to be used by them
 
-PfpImgen- make pfp images like bonk, horny ,simp etc
+`PfpImgen` - make pfp images like bonk, horny ,simp etc
 
-Reports- make reports for your server or a user
+`Reports` - make reports for your server or a user
 
-Seen- Shows last time a user was seen in chat.
+`Seen` - Shows last time a user was seen in chat.
 
-ServerStats- display avatar enlarege emojis get server stats etc
+`ServerStats` - display avatar enlarege emojis get server stats etc
 
-Sticky- stick a message to a channel
+`Sticky` - stick a message to a channel
 
-Werewolf- a wearwolf game
+`Werewolf` - a wearwolf game
 
-Warnings- warns , warnactions, reasons etc
+`Warnings` - warns , warnactions, reasons etc
