@@ -1,5 +1,4 @@
 ## Elixir Bot
-==========
 
 A Multi-Purpose Bot including many features such as Selfroles, Leveling, Profile, Muisc etc.
 
